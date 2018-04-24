@@ -1,0 +1,36 @@
+.main-container {
+    background-color: lavender;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.title-container {
+    background-color: green;
+    display: inline-block;
+    margin: 10px 0px 10px 10px;
+}
+.instructions {
+    background-color: beige;
+    margin: 10px 0px 10px 10px;
+}
+.number-box {
+    background-color: lightgreen;
+    display: inline-block;
+    margin: 10px 0px 10px 10px;
+}
+img {
+    height: 100px;
+    width: 100px;
+}
+.image-container {
+    margin: 10px 0px 10px 10px;
+}
+.button {
+    display: inline-block;
+}
+.score-board {
+    background-color: grey;
+    display: inline-block;
+}
+#total-score {
+    background-color: darkgrey;
+}
