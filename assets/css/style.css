@@ -1,36 +1,17 @@
-.main-container {
-    background-color: lavender;
-    margin-left: 10px;
-    margin-right: 10px;
+.page-header{
+    font-size: 3em;
 }
-.title-container {
-    background-color: green;
-    display: inline-block;
-    margin: 10px 0px 10px 10px;
+.goal, .score{
+    font-size: 1.5em;
 }
-.instructions {
-    background-color: beige;
-    margin: 10px 0px 10px 10px;
-}
-.number-box {
-    background-color: lightgreen;
-    display: inline-block;
-    margin: 10px 0px 10px 10px;
+.goal, .btnGroup{
+    margin-top: 50px;
 }
 img {
     height: 100px;
-    width: 100px;
+    width: auto;
 }
-.image-container {
-    margin: 10px 0px 10px 10px;
+#reset{
+    margin: 20px;
 }
-.button {
-    display: inline-block;
-}
-.score-board {
-    background-color: grey;
-    display: inline-block;
-}
-#total-score {
-    background-color: darkgrey;
-}
+
